@@ -45,3 +45,6 @@ To trigger the archive feature:
 4. The incomplete project directory will then be deleted.
 
 5. The script will exit after the archive has been created.
+
+   LINK TO EXPLANATION VIDEO HERE:
+   [https://www.loom.com/share/880edbfd4d79401aa721ac522751b828](url)
