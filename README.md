@@ -1,5 +1,5 @@
 # deploy_agent_PelzStudios
-Coding Lab : Linux Summative
+Individual Lab : Linux Summative
 
 Attendance Tracker Project Factory
 
