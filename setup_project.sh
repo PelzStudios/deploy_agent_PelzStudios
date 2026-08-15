@@ -55,10 +55,10 @@ else
 fi
 
 # Confirm project structure is accurate
-if [[ -f "attendance_checker.py" &&
-      -f "Helpers/assets.csv" &&
-      -f "Helpers/config.json" &&
-      -f "reports/reports.log" ]]; then
+if [[ -f "$project_dir/attendance_checker.py" &&
+      -f "$project_dir/Helpers/assets.csv" &&
+      -f "$project_dir/Helpers/config.json" &&
+      -f "$project_dir/reports/reports.log" ]]; then
 
     echo "Project structure verified."
     echo "Setup complete!"
