@@ -47,4 +47,4 @@ To trigger the archive feature:
 5. The script will exit after the archive has been created.
 
    LINK TO EXPLANATION VIDEO HERE:
-   [https://www.loom.com/share/880edbfd4d79401aa721ac522751b828](url)
+   [https://www.loom.com/share/27d5d6a368e64b61b9b3d13e2c590930](url)
