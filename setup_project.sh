@@ -38,8 +38,8 @@ if [[ "$choice" == "y" ]]; then
     read -p "Enter new Warning value: " warning
     read -p "Enter new Failure value: " failure
 
-    sed -i "s/75/$warning/" $project_dir/Helpers/config.json
-    sed -i "s/50/$failure/" $project_dir/Helpers/config.json
+    sed -i "s/75/$warning/" "$project_dir/Helpers/config.json"
+    sed -i "s/50/$failure/" "$project_dir/Helpers/config.json"
 
     echo "Configuration updated."
 
